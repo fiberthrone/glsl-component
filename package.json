@@ -18,7 +18,7 @@
     "webpack": "^1.13.2",
     "webpack-visualizer-plugin": "^0.1.5"
   },
-  "repository": "mgonto/gulp-browserify-library-seed",
+  "repository": "PixelsCommander/glsl-component",
   "engines": {
     "node": ">=0.8.0"
   }
